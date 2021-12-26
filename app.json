@@ -50,8 +50,5 @@
             "value": "https://hooks.slack.com/services/your-api-key"
         }
     },
-    "addons": [
-        "mongolab"
-    ],
     "keywords": ["quill", "node", "express", "mongo"]
 }
